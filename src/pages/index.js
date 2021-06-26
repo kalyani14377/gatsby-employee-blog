@@ -5,7 +5,7 @@ import * as pageStyles from "./page.module.scss"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import {Container, Row} from "react-bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import EmployeeCard from "../components/employeeCard";
+import EmployeeCard from "../components/EmployeeCard";
 
 
 const IndexPage = () => {
