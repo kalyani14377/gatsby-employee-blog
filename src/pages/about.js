@@ -7,7 +7,7 @@ const About = () => (
     <Layout>
     <Seo title="About" />
     <Container className="mt-4">
-        This is about page.
+        This is About page.
     </Container>
     </Layout>
 )

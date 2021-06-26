@@ -1,7 +1,9 @@
-.navLinks a{
-    color: #ffffff;
-    :hover {
-        text-decoration: none;
+.navLinks{
+    a{
         color: #ffffff;
+        :hover {
+            text-decoration: none;
+            color: rgba(233, 221, 221, 0.788);
+        }
     }
 }
